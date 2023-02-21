@@ -166,7 +166,7 @@ h1 {
 
   .card::before {
     content: "";
-    background-image: url("/images/illustration-box-desktop.svg");
+    background-image: url("./images/illustration-box-desktop.svg");
     width: 191px;
     height: 184px;
     position: absolute;
