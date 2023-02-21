@@ -21,9 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./faq-accordion-card-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/lafistik/faq-accordion-card-main]()
+- Live Site URL: [https://lafistik.github.io/faq-accordion-card-main]()
